@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+conda-meta/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+*.dll
+*.lib
+*.obj
+*.pdb
+*.exe
+
+# Local data and results
+data/
+input/
+output/
+result/
+results/
+assets/
+figure/
+figures/
+data_prepare_check/
+error_logs/
+logs/
+runs/
+checkpoints/
+
+# Large generated artifacts
+*.ply
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# Local notes and backups
+.history/
+.agents/
+.claude/
+backup/
+backups/
+code_backups/
+__paper_extracts/
+STABLE_MARK_*.txt
+新命令行.txt
+*.log
+
+# Bundled external tools
+tools/colmap-*/

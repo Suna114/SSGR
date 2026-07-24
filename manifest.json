@@ -1,0 +1,20 @@
+﻿[
+    {
+        "source":  "F:\\3dgs\\SSGR\\scripts\\pipeline\\sar_novel_view_refiner_pipeline.py",
+        "backup":  "F:\\3dgs\\SSGR\\backups\\refiner_code_20260615_145051\\scripts\\pipeline\\sar_novel_view_refiner_pipeline.py",
+        "bytes":  215744,
+        "last_write_time":  "2026-06-15 11:06:56"
+    },
+    {
+        "source":  "F:\\3dgs\\SSGR\\scripts\\rendering\\learn_sar_target_layover_refiner_clean.py",
+        "backup":  "F:\\3dgs\\SSGR\\backups\\refiner_code_20260615_145051\\scripts\\rendering\\learn_sar_target_layover_refiner_clean.py",
+        "bytes":  69516,
+        "last_write_time":  "2026-06-13 22:20:54"
+    },
+    {
+        "source":  "F:\\3dgs\\SSGR\\scripts\\rendering\\learn_sar_azimuth_shadow_refiner.py",
+        "backup":  "F:\\3dgs\\SSGR\\backups\\refiner_code_20260615_145051\\scripts\\rendering\\learn_sar_azimuth_shadow_refiner.py",
+        "bytes":  144218,
+        "last_write_time":  "2026-06-13 21:48:59"
+    }
+]
